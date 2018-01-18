@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#231F20;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-width:40;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#000000;stroke-width:65;stroke-miterlimit:10;}
+</style>
+<symbol  id="Arrow_28" viewBox="-22.9 -15.9 45.7 31.8">
+	<rect x="-22.9" y="-15.9" class="st0" width="45.7" height="31.8"/>
+	<g>
+		<polygon class="st1" points="-22.9,4.8 4.6,4.8 -6.5,15.9 7,15.9 22.9,0 7,-15.9 -6.5,-15.9 4.6,-4.8 -22.9,-4.8 		"/>
+	</g>
+</symbol>
+<rect x="190.3" y="190.3" transform="matrix(0.7071 0.7071 -0.7071 0.7071 500 -207.1068)" class="st2" width="619.4" height="619.4"/>
+<path class="st3" d="M500.5,683.5"/>
+<path class="st3" d="M500.5,270"/>
+<use xlink:href="#Arrow_28"  width="45.7" height="31.8" x="-22.9" y="-15.9" transform="matrix(6.080338e-16 9.9299 9.9467 -6.090569e-16 502.7146 525.9975)" style="overflow:visible;"/>
+</svg>
